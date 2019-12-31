@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "E86A9ZDN22.com.driver.jkbd",
+                "paths": [ "/wxshare/*"]
+            }
+        ]
+    }
+}
